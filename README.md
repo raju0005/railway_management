@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/raju0005/railway_management.git
-cd railway_managementapi
+cd railway_management
 
 ```
 ### Step 2: Install Dependencies
@@ -82,7 +82,7 @@ ADMIN_API_KEY=your_key
 ``` bash
 nodemon index.js
 ```
-- The server will be running at http://localhost:5000.
+- The server will be running at http://localhost:3000.
 
 ### Step 6: API Documentation 
 - You can use Postman or any API testing tool to test the endpoints.
