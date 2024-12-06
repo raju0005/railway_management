@@ -29,8 +29,8 @@ This is a Railway Management System API where users can check for available trai
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/raju0005/railway-management-api.git
-cd railway-management-api
+git clone https://github.com/raju0005/railway_management.git
+cd railway_managementapi
 
 ```
 ### Step 2: Install Dependencies
