@@ -9,8 +9,8 @@ This is a Railway Management System API where users can check for available trai
 - User Registration and Login
 - Train Availability Search (by source and destination)
 - Seat Booking and Booking Details
-- Admin functionality to add trains and update seat availability
-- Role-based access (Admin and User)
+- Admin functionality to add trains 
+
 
 
 
